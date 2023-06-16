@@ -14,7 +14,7 @@ This project downloads images from a website and resizes them to a smaller size 
    git clone https://github.com/your-username/image-downloader-resizer.git
 
 2.Install the required packages:
-pip install opencv-python requests
+   pip install opencv-python requests
 
 
 ## Usage
