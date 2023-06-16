@@ -27,6 +27,7 @@ This project downloads images from a website and resizes them to a smaller size 
 
 ## Folder Structure
 The project structure is as follows:
+
 image-downloader-resizer/
   ├── download_and_resize_images.py
   ├── content/
