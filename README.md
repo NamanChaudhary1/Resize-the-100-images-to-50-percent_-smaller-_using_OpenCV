@@ -1,0 +1,1 @@
+# Resize-the-100-images-to-50-percent_-smaller-_using_OpenCV
