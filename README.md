@@ -27,24 +27,24 @@ This project downloads images from a website and resizes them to a smaller size 
 
 ## Folder Structure
 The project structure is as follows:
-
-image-downloader-resizer/
-  ├── download_and_resize_images.py
-  ├── content/
-  │   ├── downloaded_images/
-  │   │   ├── image_0.jpg
-  │   │   ├── image_1.jpg
-  │   │   ├── ...
-  │   │
-  │   ├── resized_images/
-  │   │   ├── image_0.jpg
-  │   │   ├── image_1.jpg
-  │   │   ├── ...
-  │   │
-  │   ├── README.md
-  │
-  └── README.md
-
+<br>
+image-downloader-resizer/<br>
+  ├── download_and_resize_images.py<br>
+  ├── content/<br>
+  │   ├── downloaded_images/<br>
+  │   │   ├── image_0.jpg<br>
+  │   │   ├── image_1.jpg<br>
+  │   │   ├── ...<br>
+  │   │<br>
+  │   ├── resized_images/<br>
+  │   │   ├── image_0.jpg<br>
+  │   │   ├── image_1.jpg<br>
+  │   │   ├── ...<br>
+  │   │<br>
+  │   ├── README.md<br>
+  │<br>
+  └── README.md<br>
+<br>
 The downloaded_images directory contains the downloaded images, and the resized_images directory contains the resized images.
 
 
